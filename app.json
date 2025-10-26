@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "links",
-    "slug": "links",
+    "slug": "link",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -22,7 +22,8 @@
         "backgroundColor": "#09090B"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.link.erickalexandre.links"
     },
     "web": {
       "bundler": "metro",
@@ -34,6 +35,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "372a0f3b-aa9e-49bb-b296-859c2aa9d328"
+      }
+    },
+    "owner": "nie3r"
   }
 }
