@@ -9,7 +9,6 @@ import "./global.css";
 import { useState, useCallback } from "react";
 import { categories } from "@/utils/categories";
 import { linkStorage, LinkStorage } from "@/storage/link-storage";
-import { get } from "react-native/Libraries/TurboModule/TurboModuleRegistry";
 
 export default function Index() {
     const [showModal, setShowModal] = useState(false);
