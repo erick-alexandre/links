@@ -1,6 +1,6 @@
 #Gerenciador de Links
 
-Um aplicativo móvel multiplataforma, construído com React Native e Expo, para salvar e organizar seus links. Permite adicionar novos links, categorizá-los, listá-los, abri-los no navegador e excluí-los, com todos os dados persistidos localmente no dispositivo.
+Um aplicativo multiplataforma, construído com React Native e Expo, para salvar e organizar links. Permite adicionar novos links, categorizá-los, listá-los, abri-los no navegador e excluí-los, com todos os dados persistidos localmente no dispositivo.
 
  ##Funcionalidades Principais
 
